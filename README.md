@@ -1,2 +1,4 @@
-# Leetcode-Python
-# Leetcode-Python
+LeetCode Python
+===============
+
+LeetCode problems solved in Python
